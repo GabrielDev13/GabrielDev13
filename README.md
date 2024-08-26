@@ -17,7 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com uma paixão por 
 
 ## Vamos nos conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-lima1713) 
-- [GitHub](https://github.com/GabrielDev13)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima1713) 
+ [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDev13)
 
 Sinta-se à vontade para entrar em contato e trocar ideias ou colaborações em projetos!
